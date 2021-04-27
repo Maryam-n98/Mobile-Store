@@ -1,0 +1,83 @@
+body{
+    background-color: RGBA(211, 211, 211, 0.548);
+    font-family: 'Courgette', cursive;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: 1.75em;
+    font-weight: bolder;
+    /* margin-top: 2em; */
+    padding: .8em;
+
+}
+header{
+    height: 6em;
+}
+#background{
+  width: 100%;
+  height: 33em;
+}
+#form{
+    background-color: RGBA(211, 211, 211, 0.548);
+    margin-left: 2.5em;
+    position: relative;
+    top: -26em;
+    width: 20em;
+    height: 10em;
+
+    text-align: center;
+    font-size: large;
+    padding: 3em;
+}
+input{
+    border-radius: 20px;
+    width: 12em;
+    height: 2em;
+}
+select{
+    border-radius: 20px;
+    width: 12em;
+    height: 2em;  
+}
+#Submit{
+    background-color: RGB(39, 39, 39);
+    color: whitesmoke;
+    margin-top: 1em;
+}
+#mobileTable{
+    background-color: RGBA(211, 211, 211, 0.548);
+    width: 20em;
+    height: 12em;
+    position: relative;
+    left: 60%;
+    top:-47.1em;
+    padding: 3em;
+}
+table{
+  
+    border: solid 0.2em whitesmoke;
+    text-align: center;
+    font-size: 1.1em;
+}
+th{
+    background-color: RGB(39, 39, 39);
+    color: whitesmoke;
+    padding: .5em;
+}
+td{
+    background-color: RGB(78, 78, 78);
+    color: whitesmoke;
+    padding: .5em;
+}
+table,tr,td,th{
+    border: solid 0.2em whitesmoke;
+}
+footer{
+    font-size: 1.1em;
+    text-align: center;
+    color: black;
+    position: relative;
+    top:-30em;
+    font-weight: bold;
+}
